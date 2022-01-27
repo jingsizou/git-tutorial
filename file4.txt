@@ -1,3 +1,5 @@
 Add some content in file4
 Modify file4
 conflict content
+Modified new content in file4 for GitHub
+
